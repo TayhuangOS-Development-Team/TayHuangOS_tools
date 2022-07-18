@@ -30,7 +30,7 @@ curl https://mirrors.aliyun.com/gnu/mpfr/mpfr-4.1.0.tar.xz --output ./mpfr-4.1.0
 curl https://mirrors.aliyun.com/gnu/mpc/mpc-1.2.1.tar.gz --output ./mpc-1.2.1.tar.gz
 curl https://mirrors.aliyun.com/gnu/gmp/gmp-6.2.1.tar.xz --output ./gmp-6.2.1.tar.xz
 curl https://mirrors.aliyun.com/gnu/binutils/binutils-2.33.1.tar.xz --output ./binutils-2.33.1.tar.xz
-curl https://mirrors.aliyun.com/gnu/gcc/gcc-9.4.0/gcc-9.4.0.tar.xz--output ./gcc-9.4.0.tar.xz	
+curl https://mirrors.aliyun.com/gnu/gcc/gcc-9.4.0/gcc-9.4.0.tar.xz --output ./gcc-9.4.0.tar.xz	
 	
 echo "
 本系统依赖opencv-python包，输入想要的配置序号：
